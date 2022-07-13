@@ -2,7 +2,7 @@
   "name": "react-weekday-picker",
   "version": "1.0.9",
   "description": "Customizable weekday picker component for React.js",
-  "main": "./lib/WeekdayPicker.js",
+  "main": "./src/WeekdayPicker.js",
   "scripts": {
     "prepublish": "./node_modules/.bin/babel ./src -d ./lib --source-maps",
     "test": "./node_modules/.bin/mocha --compilers js:babel-core/register --recursive --reporter spec",
