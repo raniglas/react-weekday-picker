@@ -49,6 +49,7 @@
     "testdom": "^2.0.0"
   },
   "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.18.6",
     "prop-types": "^15.6.0"
   }
 }
